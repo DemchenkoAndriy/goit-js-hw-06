@@ -1,6 +1,6 @@
 const categories = document.querySelectorAll("li.item");
 
-console.log(categories.length);
+console.log("Number of categories: "+categories.length);
 
 
 categories.forEach(item => {

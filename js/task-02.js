@@ -18,5 +18,5 @@ newItem.setAttribute("class","item")
 const list = document.querySelector('ul#ingredients');
 list.prepend(...newList);
 
-console.log(list);
-console.log(newList);
+// console.log(list);
+// console.log(newList);
